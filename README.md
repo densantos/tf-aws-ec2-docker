@@ -14,3 +14,10 @@
 2. Update Keypair on EC2 configuration
 3. Launch the instance
 4. SSH to it using its IP address
+
+FUTURE UPDATE
+
+CONVERT THIS INTO A MODULE AND USE A CONDITIONAL VARIABLE FOR AMI AND USER DATA SCRIPT.
+
+IF DOCKER = use docker.sh
+IF apache = use appache.sh
